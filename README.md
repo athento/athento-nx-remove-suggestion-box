@@ -1,4 +1,4 @@
-# athento-nx-security-xss-prevention
+# athento-nx-remove-suggestion-box
 
 ## For versions
 6.0
@@ -21,4 +21,4 @@ Following screenshots shows the results of plugin installation
 2. Install it  from the ADMIN section > Update Center > local packages
 3. Restart the server and enjoy your new feature.
 
-Don't forget to report any bug you find. Pull requests are also welcomed, feel free to improve :)
+Don't forget to report any bugs you find. Pull requests are also welcome, feel free to improve :)
