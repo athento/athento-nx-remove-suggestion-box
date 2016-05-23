@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Athento
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 1.0
+Bundle-Name: athento-nx-remove-suggestion-box
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: athento-nx-remove-suggestion-box
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
