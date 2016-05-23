@@ -17,7 +17,7 @@ Following screenshots shows the results of plugin installation
 
 ## Installation
 
-1. Download the zip package from   [here](https://github.com/athento/athento-nx-remove-suggestion-box/athento-nx-remove-suggestion-box-dist/target/athento-nx-remove-suggestion-box-project-1.0.zip)
+1. Download the zip package from   [here](https://github.com/athento/athento-nx-remove-suggestion-box/raw/master/athento-nx-remove-suggestion-box-dist/target/athento-nx-remove-suggestion-box-project-1.0.zip)
 2. Install it  from the ADMIN section > Update Center > local packages
 3. Restart the server and enjoy your new feature.
 
